@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://it-support-orlando-v7.example/sitemap.xml
